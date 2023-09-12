@@ -2,9 +2,10 @@
 
 ## About me
 
-- 💬 I am a freshwater ecologist focussing my research at the interface of applied ecology, biological invasions, and the management and conservation of freshwater ecosystems
-- 🔭 I’m currently working on invasive crayfish
-- 📫 my reserach here: https://www.researchgate.net/profile/Simone-Guareschi
+- 💬 I am a freshwater ecologist focussing my research at the interface of applied ecology and biological invasions
+- 🌱 Passionate about rivers and their wildlife
+- 🔭 I’m currently working on invasive crayfish, biomonitoring tools and distribution models
+- 📫 My reserach here: https://www.researchgate.net/profile/Simone-Guareschi
 
 
 <!--
