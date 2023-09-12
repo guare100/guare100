@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## About me
+
+<!-- TO DO: add more details about me later -->
+
+- 💬 I am a freshwater ecologist focussing my research at the interface of applied ecology, biological invasions, and the management and conservation of freshwater ecosystems. 
+- 🔭 I’m currently working on invasive crayfish
+
+
 <!--
 **guare100/guare100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
