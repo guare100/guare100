@@ -4,9 +4,11 @@
 
 - ⚡ PhD Biodiversity and Environmental Management (2015, University of Murcia, Spain)
 - 💬 I am a freshwater ecologist focussing my research at the interface of applied ecology and biological invasions
+- 💬 Ramón y Cajal tenure-track fellow at URJC (Madrid - Spain) + Visiting Fellow in River Science at Loughborough University (UK). 
 - 🌱 Passionate about rivers and their wildlife. 
-- 🔭 I’m currently working on invasive crayfish, biomonitoring tools and distribution models
+- 🔭 I’m currently working on invasive crayfish, biomonitoring tools, ecological indicators, river science and distribution models
 - 📫 My research, list of affiliations, awards and roles: https://www.researchgate.net/profile/Simone-Guareschi
+- ⚡ Member of the Editorial board of the JRC WILEY Journal "River Research and Applications", Guest editor of the Special Issue “Biological Invasions in Rivers and Associated Ecosystems". Since 2025: Associated editor (AE) in Biological Invasions (Springer).
 
 
 <!--
